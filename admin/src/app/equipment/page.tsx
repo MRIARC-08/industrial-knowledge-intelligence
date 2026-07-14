@@ -9,7 +9,7 @@ import { Card, PageHeader, LoadingSpinner, ErrorState, Badge } from '@/component
 import {
   statusColors, statusDots, formatDate, cn
 } from '@/lib/utils'
-import { EquipmentStatus } from '../../../shared/types'
+import { EquipmentStatus } from '@iki/shared'
 
 const statusVariantMap: Record<EquipmentStatus, 'success' | 'warning' | 'danger'> = {
   operational: 'success',

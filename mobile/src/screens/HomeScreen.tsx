@@ -8,6 +8,7 @@ import { SafeAreaView } from 'react-native-safe-area-context'
 import { useNavigation } from '@react-navigation/native'
 import { useQuery } from '@tanstack/react-query'
 import { Ionicons } from '@expo/vector-icons'
+import * as Haptics from 'expo-haptics'
 import { api } from '@/lib/api'
 import { Card } from '@/components/Card'
 import { colors, spacing, radius, typography } from '@/lib/theme'
@@ -70,26 +71,38 @@ export default function HomeScreen() {
       icon: 'mic-outline',
       label: 'Ask Aloud',
       color: colors.accent.blue,
-      onPress: () => navigation.navigate('Ask'),
+      onPress: () => {
+        Haptics.impactAsync(Haptics.ImpactFeedbackStyle.Medium)
+        navigation.navigate('Ask')
+      },
     },
     {
       icon: 'construct-outline',
       label: 'Find Equipment',
       color: colors.accent.green,
-      onPress: () => navigation.navigate('Equipment'),
+      onPress: () => {
+        Haptics.impactAsync(Haptics.ImpactFeedbackStyle.Light)
+        navigation.navigate('Equipment')
+      },
     },
     {
       icon: 'notifications-outline',
       label: 'My Alerts',
       color: colors.accent.yellow,
       badge: alerts.length,
-      onPress: () => navigation.navigate('Alerts'),
+      onPress: () => {
+        Haptics.impactAsync(Haptics.ImpactFeedbackStyle.Light)
+        navigation.navigate('Alerts')
+      },
     },
     {
       icon: 'shield-outline',
       label: 'Compliance',
       color: '#a855f7',
-      onPress: () => navigation.navigate('Alerts'),
+      onPress: () => {
+        Haptics.impactAsync(Haptics.ImpactFeedbackStyle.Light)
+        navigation.navigate('Alerts')
+      },
     },
   ]
 

@@ -12,7 +12,7 @@ import { LoadingSpinner } from '@/components/LoadingSpinner'
 import { Badge } from '@/components/Badge'
 import { colors, spacing, radius, typography } from '@/lib/theme'
 import { statusColor } from '@/lib/utils'
-import { Equipment, EquipmentStatus } from '../../shared/types'
+import { Equipment, EquipmentStatus } from '@iki/shared'
 
 const statusVariant = (s: EquipmentStatus) =>
   s === 'operational' ? 'success' : s === 'warning' ? 'warning' : 'danger'

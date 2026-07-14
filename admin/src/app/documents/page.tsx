@@ -7,7 +7,7 @@ import { api } from '@/lib/api'
 import { Upload, FileText, CheckCircle, XCircle, Loader2 } from 'lucide-react'
 import { Card, PageHeader, LoadingSpinner, Badge } from '@/components'
 import { formatDate, cn } from '@/lib/utils'
-import { DocumentStatus } from '../../../shared/types'
+import { DocumentStatus } from '@iki/shared'
 
 const statusConfig: Record<DocumentStatus, {
   icon: React.ReactNode

@@ -15,7 +15,7 @@ import { api } from '@/lib/api'
 import { Card } from '@/components/Card'
 import { colors, spacing, radius, typography } from '@/lib/theme'
 import { confidencePercent, confidenceColor } from '@/lib/utils'
-import { QueryResponse } from '../../shared/types'
+import { QueryResponse } from '@iki/shared'
 
 interface Message {
   id: string

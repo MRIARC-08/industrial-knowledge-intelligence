@@ -1,5 +1,5 @@
 // mobile/src/lib/utils.ts
-import { EquipmentStatus, GapSeverity, CertificateStatus } from '../../shared/types'
+import { EquipmentStatus, GapSeverity, CertificateStatus } from '@iki/shared'
 import { colors } from './theme'
 
 export function formatDate(dateStr: string): string {

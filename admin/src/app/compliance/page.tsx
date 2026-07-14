@@ -6,7 +6,7 @@ import { api } from '@/lib/api'
 import { Shield, AlertCircle, CheckCircle, Clock } from 'lucide-react'
 import { Card, PageHeader, LoadingSpinner, Badge } from '@/components'
 import { formatDate, daysUntil, severityColors, certStatusColors } from '@/lib/utils'
-import { GapSeverity, GapStatus, CertificateStatus } from '../../../shared/types'
+import { GapSeverity, GapStatus, CertificateStatus } from '@iki/shared'
 
 const certStatusVariant: Record<CertificateStatus, 'success' | 'warning' | 'danger'> = {
   valid: 'success',

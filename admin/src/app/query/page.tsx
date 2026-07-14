@@ -7,7 +7,7 @@ import { api } from '@/lib/api'
 import { Send, Bot, User, FileText, AlertCircle } from 'lucide-react'
 import { Card, PageHeader } from '@/components'
 import { confidenceLabel, cn } from '@/lib/utils'
-import { QueryResponse } from '../../../shared/types'
+import { QueryResponse } from '@iki/shared'
 
 interface Message {
   id: string

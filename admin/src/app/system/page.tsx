@@ -5,7 +5,7 @@ import { api } from '@/lib/api'
 import { Activity, RefreshCw, CheckCircle, AlertTriangle, XCircle } from 'lucide-react'
 import { Card, PageHeader, LoadingSpinner } from '@/components'
 import { serviceStatusColors, formatNumber, cn } from '@/lib/utils'
-import { ServiceStatus, OverallStatus } from '../../../shared/types'
+import { ServiceStatus, OverallStatus } from '@iki/shared'
 
 const overallIcons: Record<OverallStatus, React.ReactNode> = {
   healthy: <CheckCircle className="w-5 h-5 text-green-400" />,

@@ -24,7 +24,8 @@
     "react-dropzone": "^17.0.0",
     "recharts": "^3.9.2",
     "tailwind-merge": "^3.6.0",
-    "zustand": "^5.0.14"
+    "zustand": "^5.0.14",
+    "@iki/shared": "*"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",

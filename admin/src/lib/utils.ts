@@ -3,7 +3,7 @@
 
 import { clsx, type ClassValue } from 'clsx'
 import { twMerge } from 'tailwind-merge'
-import { EquipmentStatus, GapSeverity, CertificateStatus, ServiceStatus } from '../../shared/types'
+import { EquipmentStatus, GapSeverity, CertificateStatus, ServiceStatus } from '@iki/shared'
 
 // Tailwind class merger
 export function cn(...inputs: ClassValue[]) {

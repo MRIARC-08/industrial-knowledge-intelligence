@@ -1,5 +1,5 @@
 // mobile/src/lib/api.ts
-import { createApiClient, buildApi } from '../../shared/api'
+import { createApiClient, buildApi } from '@iki/shared'
 
 // React Native uses different env variable syntax
 const client = createApiClient(
