@@ -1,0 +1,602 @@
+[
+    {
+        "id": "Q_WO_1",
+        "category": "Maintenance",
+        "question": "What was the test pressure for COMP-1 in WO-1?",
+        "ground_truth": "184 PSI"
+    },
+    {
+        "id": "Q_WO_2",
+        "category": "Maintenance",
+        "question": "What was the test pressure for P-101B in WO-2?",
+        "ground_truth": "381 PSI"
+    },
+    {
+        "id": "Q_WO_3",
+        "category": "Maintenance",
+        "question": "What was the test pressure for TK-50 in WO-3?",
+        "ground_truth": "314 PSI"
+    },
+    {
+        "id": "Q_WO_4",
+        "category": "Maintenance",
+        "question": "What was the test pressure for B-500 in WO-4?",
+        "ground_truth": "222 PSI"
+    },
+    {
+        "id": "Q_WO_5",
+        "category": "Maintenance",
+        "question": "What was the test pressure for HX-301 in WO-5?",
+        "ground_truth": "369 PSI"
+    },
+    {
+        "id": "Q_WO_6",
+        "category": "Maintenance",
+        "question": "What was the test pressure for GEN-2 in WO-6?",
+        "ground_truth": "123 PSI"
+    },
+    {
+        "id": "Q_WO_7",
+        "category": "Maintenance",
+        "question": "What was the test pressure for HX-301 in WO-7?",
+        "ground_truth": "481 PSI"
+    },
+    {
+        "id": "Q_WO_8",
+        "category": "Maintenance",
+        "question": "What was the test pressure for GEN-2 in WO-8?",
+        "ground_truth": "219 PSI"
+    },
+    {
+        "id": "Q_WO_9",
+        "category": "Maintenance",
+        "question": "What was the test pressure for TK-50 in WO-9?",
+        "ground_truth": "147 PSI"
+    },
+    {
+        "id": "Q_WO_10",
+        "category": "Maintenance",
+        "question": "What was the test pressure for GEN-2 in WO-10?",
+        "ground_truth": "242 PSI"
+    },
+    {
+        "id": "Q_WO_11",
+        "category": "Maintenance",
+        "question": "What was the test pressure for P-101A in WO-11?",
+        "ground_truth": "353 PSI"
+    },
+    {
+        "id": "Q_WO_12",
+        "category": "Maintenance",
+        "question": "What was the test pressure for B-500 in WO-12?",
+        "ground_truth": "115 PSI"
+    },
+    {
+        "id": "Q_WO_13",
+        "category": "Maintenance",
+        "question": "What was the test pressure for V-200 in WO-13?",
+        "ground_truth": "205 PSI"
+    },
+    {
+        "id": "Q_WO_14",
+        "category": "Maintenance",
+        "question": "What was the test pressure for P-101A in WO-14?",
+        "ground_truth": "151 PSI"
+    },
+    {
+        "id": "Q_WO_15",
+        "category": "Maintenance",
+        "question": "What was the test pressure for C-400 in WO-15?",
+        "ground_truth": "346 PSI"
+    },
+    {
+        "id": "Q_WO_16",
+        "category": "Maintenance",
+        "question": "What was the test pressure for V-200 in WO-16?",
+        "ground_truth": "284 PSI"
+    },
+    {
+        "id": "Q_WO_17",
+        "category": "Maintenance",
+        "question": "What was the test pressure for P-101B in WO-17?",
+        "ground_truth": "273 PSI"
+    },
+    {
+        "id": "Q_WO_18",
+        "category": "Maintenance",
+        "question": "What was the test pressure for HX-301 in WO-18?",
+        "ground_truth": "135 PSI"
+    },
+    {
+        "id": "Q_WO_19",
+        "category": "Maintenance",
+        "question": "What was the test pressure for P-101A in WO-19?",
+        "ground_truth": "208 PSI"
+    },
+    {
+        "id": "Q_WO_20",
+        "category": "Maintenance",
+        "question": "What was the test pressure for TK-50 in WO-20?",
+        "ground_truth": "481 PSI"
+    },
+    {
+        "id": "Q_WO_21",
+        "category": "Maintenance",
+        "question": "What was the test pressure for V-200 in WO-21?",
+        "ground_truth": "140 PSI"
+    },
+    {
+        "id": "Q_WO_22",
+        "category": "Maintenance",
+        "question": "What was the test pressure for TK-50 in WO-22?",
+        "ground_truth": "154 PSI"
+    },
+    {
+        "id": "Q_WO_23",
+        "category": "Maintenance",
+        "question": "What was the test pressure for C-400 in WO-23?",
+        "ground_truth": "414 PSI"
+    },
+    {
+        "id": "Q_WO_24",
+        "category": "Maintenance",
+        "question": "What was the test pressure for B-500 in WO-24?",
+        "ground_truth": "333 PSI"
+    },
+    {
+        "id": "Q_WO_25",
+        "category": "Maintenance",
+        "question": "What was the test pressure for TK-50 in WO-25?",
+        "ground_truth": "387 PSI"
+    },
+    {
+        "id": "Q_WO_26",
+        "category": "Maintenance",
+        "question": "What was the test pressure for TK-50 in WO-26?",
+        "ground_truth": "130 PSI"
+    },
+    {
+        "id": "Q_WO_27",
+        "category": "Maintenance",
+        "question": "What was the test pressure for HX-301 in WO-27?",
+        "ground_truth": "220 PSI"
+    },
+    {
+        "id": "Q_WO_28",
+        "category": "Maintenance",
+        "question": "What was the test pressure for P-101A in WO-28?",
+        "ground_truth": "206 PSI"
+    },
+    {
+        "id": "Q_WO_29",
+        "category": "Maintenance",
+        "question": "What was the test pressure for COMP-1 in WO-29?",
+        "ground_truth": "178 PSI"
+    },
+    {
+        "id": "Q_WO_30",
+        "category": "Maintenance",
+        "question": "What was the test pressure for P-101A in WO-30?",
+        "ground_truth": "192 PSI"
+    },
+    {
+        "id": "Q_MAN_1",
+        "category": "Operation",
+        "question": "What is the minimum clearance required for B-500 according to its manual?",
+        "ground_truth": "2 meters"
+    },
+    {
+        "id": "Q_MAN_2",
+        "category": "Operation",
+        "question": "What is the minimum clearance required for P-101A according to its manual?",
+        "ground_truth": "4 meters"
+    },
+    {
+        "id": "Q_MAN_3",
+        "category": "Operation",
+        "question": "What is the minimum clearance required for F-600 according to its manual?",
+        "ground_truth": "7 meters"
+    },
+    {
+        "id": "Q_MAN_4",
+        "category": "Operation",
+        "question": "What is the minimum clearance required for GEN-2 according to its manual?",
+        "ground_truth": "6 meters"
+    },
+    {
+        "id": "Q_MAN_5",
+        "category": "Operation",
+        "question": "What is the minimum clearance required for B-500 according to its manual?",
+        "ground_truth": "10 meters"
+    },
+    {
+        "id": "Q_MAN_6",
+        "category": "Operation",
+        "question": "What is the minimum clearance required for P-101B according to its manual?",
+        "ground_truth": "7 meters"
+    },
+    {
+        "id": "Q_MAN_7",
+        "category": "Operation",
+        "question": "What is the minimum clearance required for C-400 according to its manual?",
+        "ground_truth": "10 meters"
+    },
+    {
+        "id": "Q_MAN_8",
+        "category": "Operation",
+        "question": "What is the minimum clearance required for GEN-2 according to its manual?",
+        "ground_truth": "8 meters"
+    },
+    {
+        "id": "Q_MAN_9",
+        "category": "Operation",
+        "question": "What is the minimum clearance required for COMP-1 according to its manual?",
+        "ground_truth": "2 meters"
+    },
+    {
+        "id": "Q_MAN_10",
+        "category": "Operation",
+        "question": "What is the minimum clearance required for V-200 according to its manual?",
+        "ground_truth": "7 meters"
+    },
+    {
+        "id": "Q_MAN_11",
+        "category": "Operation",
+        "question": "What is the minimum clearance required for F-600 according to its manual?",
+        "ground_truth": "7 meters"
+    },
+    {
+        "id": "Q_MAN_12",
+        "category": "Operation",
+        "question": "What is the minimum clearance required for GEN-2 according to its manual?",
+        "ground_truth": "8 meters"
+    },
+    {
+        "id": "Q_MAN_13",
+        "category": "Operation",
+        "question": "What is the minimum clearance required for COMP-1 according to its manual?",
+        "ground_truth": "4 meters"
+    },
+    {
+        "id": "Q_MAN_14",
+        "category": "Operation",
+        "question": "What is the minimum clearance required for P-101A according to its manual?",
+        "ground_truth": "7 meters"
+    },
+    {
+        "id": "Q_MAN_15",
+        "category": "Operation",
+        "question": "What is the minimum clearance required for HX-301 according to its manual?",
+        "ground_truth": "8 meters"
+    },
+    {
+        "id": "Q_MAN_16",
+        "category": "Operation",
+        "question": "What is the minimum clearance required for COMP-1 according to its manual?",
+        "ground_truth": "9 meters"
+    },
+    {
+        "id": "Q_MAN_17",
+        "category": "Operation",
+        "question": "What is the minimum clearance required for GEN-2 according to its manual?",
+        "ground_truth": "6 meters"
+    },
+    {
+        "id": "Q_MAN_18",
+        "category": "Operation",
+        "question": "What is the minimum clearance required for COMP-1 according to its manual?",
+        "ground_truth": "2 meters"
+    },
+    {
+        "id": "Q_MAN_19",
+        "category": "Operation",
+        "question": "What is the minimum clearance required for P-101B according to its manual?",
+        "ground_truth": "3 meters"
+    },
+    {
+        "id": "Q_MAN_20",
+        "category": "Operation",
+        "question": "What is the minimum clearance required for F-600 according to its manual?",
+        "ground_truth": "6 meters"
+    },
+    {
+        "id": "Q_IR_1",
+        "category": "Inspection",
+        "question": "What was the measured wall thickness for V-200 in inspection report 1?",
+        "ground_truth": "14.9 mm"
+    },
+    {
+        "id": "Q_IR_2",
+        "category": "Inspection",
+        "question": "What was the measured wall thickness for B-500 in inspection report 2?",
+        "ground_truth": "7.8 mm"
+    },
+    {
+        "id": "Q_IR_3",
+        "category": "Inspection",
+        "question": "What was the measured wall thickness for V-200 in inspection report 3?",
+        "ground_truth": "9.5 mm"
+    },
+    {
+        "id": "Q_IR_4",
+        "category": "Inspection",
+        "question": "What was the measured wall thickness for TK-50 in inspection report 4?",
+        "ground_truth": "11.1 mm"
+    },
+    {
+        "id": "Q_IR_5",
+        "category": "Inspection",
+        "question": "What was the measured wall thickness for F-600 in inspection report 5?",
+        "ground_truth": "10.5 mm"
+    },
+    {
+        "id": "Q_IR_6",
+        "category": "Inspection",
+        "question": "What was the measured wall thickness for COMP-1 in inspection report 6?",
+        "ground_truth": "13.9 mm"
+    },
+    {
+        "id": "Q_IR_7",
+        "category": "Inspection",
+        "question": "What was the measured wall thickness for F-600 in inspection report 7?",
+        "ground_truth": "6.4 mm"
+    },
+    {
+        "id": "Q_IR_8",
+        "category": "Inspection",
+        "question": "What was the measured wall thickness for P-101B in inspection report 8?",
+        "ground_truth": "5.1 mm"
+    },
+    {
+        "id": "Q_IR_9",
+        "category": "Inspection",
+        "question": "What was the measured wall thickness for COMP-1 in inspection report 9?",
+        "ground_truth": "7.0 mm"
+    },
+    {
+        "id": "Q_IR_10",
+        "category": "Inspection",
+        "question": "What was the measured wall thickness for TK-50 in inspection report 10?",
+        "ground_truth": "10.5 mm"
+    },
+    {
+        "id": "Q_IR_11",
+        "category": "Inspection",
+        "question": "What was the measured wall thickness for C-400 in inspection report 11?",
+        "ground_truth": "12.9 mm"
+    },
+    {
+        "id": "Q_IR_12",
+        "category": "Inspection",
+        "question": "What was the measured wall thickness for B-500 in inspection report 12?",
+        "ground_truth": "11.4 mm"
+    },
+    {
+        "id": "Q_IR_13",
+        "category": "Inspection",
+        "question": "What was the measured wall thickness for P-101A in inspection report 13?",
+        "ground_truth": "7.5 mm"
+    },
+    {
+        "id": "Q_IR_14",
+        "category": "Inspection",
+        "question": "What was the measured wall thickness for C-400 in inspection report 14?",
+        "ground_truth": "8.7 mm"
+    },
+    {
+        "id": "Q_IR_15",
+        "category": "Inspection",
+        "question": "What was the measured wall thickness for B-500 in inspection report 15?",
+        "ground_truth": "10.5 mm"
+    },
+    {
+        "id": "Q_IR_16",
+        "category": "Inspection",
+        "question": "What was the measured wall thickness for P-101B in inspection report 16?",
+        "ground_truth": "14.2 mm"
+    },
+    {
+        "id": "Q_IR_17",
+        "category": "Inspection",
+        "question": "What was the measured wall thickness for C-400 in inspection report 17?",
+        "ground_truth": "13.5 mm"
+    },
+    {
+        "id": "Q_IR_18",
+        "category": "Inspection",
+        "question": "What was the measured wall thickness for P-101B in inspection report 18?",
+        "ground_truth": "11.4 mm"
+    },
+    {
+        "id": "Q_IR_19",
+        "category": "Inspection",
+        "question": "What was the measured wall thickness for P-101B in inspection report 19?",
+        "ground_truth": "10.9 mm"
+    },
+    {
+        "id": "Q_IR_20",
+        "category": "Inspection",
+        "question": "What was the measured wall thickness for P-101A in inspection report 20?",
+        "ground_truth": "13.8 mm"
+    },
+    {
+        "id": "Q_COMP_1",
+        "category": "Compliance",
+        "question": "According to OISD-190, how often must fire extinguishers be inspected?",
+        "ground_truth": "every 1 months"
+    },
+    {
+        "id": "Q_COMP_2",
+        "category": "Compliance",
+        "question": "According to OISD-139, how often must fire extinguishers be inspected?",
+        "ground_truth": "every 2 months"
+    },
+    {
+        "id": "Q_COMP_3",
+        "category": "Compliance",
+        "question": "According to OISD-197, how often must fire extinguishers be inspected?",
+        "ground_truth": "every 3 months"
+    },
+    {
+        "id": "Q_COMP_4",
+        "category": "Compliance",
+        "question": "According to OISD-119, how often must fire extinguishers be inspected?",
+        "ground_truth": "every 4 months"
+    },
+    {
+        "id": "Q_COMP_5",
+        "category": "Compliance",
+        "question": "According to OISD-114, how often must fire extinguishers be inspected?",
+        "ground_truth": "every 5 months"
+    },
+    {
+        "id": "Q_COMP_6",
+        "category": "Compliance",
+        "question": "According to OISD-189, how often must fire extinguishers be inspected?",
+        "ground_truth": "every 6 months"
+    },
+    {
+        "id": "Q_COMP_7",
+        "category": "Compliance",
+        "question": "According to OISD-190, how often must fire extinguishers be inspected?",
+        "ground_truth": "every 7 months"
+    },
+    {
+        "id": "Q_COMP_8",
+        "category": "Compliance",
+        "question": "According to OISD-166, how often must fire extinguishers be inspected?",
+        "ground_truth": "every 8 months"
+    },
+    {
+        "id": "Q_COMP_9",
+        "category": "Compliance",
+        "question": "According to OISD-120, how often must fire extinguishers be inspected?",
+        "ground_truth": "every 9 months"
+    },
+    {
+        "id": "Q_COMP_10",
+        "category": "Compliance",
+        "question": "According to OISD-176, how often must fire extinguishers be inspected?",
+        "ground_truth": "every 10 months"
+    },
+    {
+        "id": "Q_COMP_11",
+        "category": "Compliance",
+        "question": "According to OISD-189, how often must fire extinguishers be inspected?",
+        "ground_truth": "every 11 months"
+    },
+    {
+        "id": "Q_COMP_12",
+        "category": "Compliance",
+        "question": "According to OISD-176, how often must fire extinguishers be inspected?",
+        "ground_truth": "every 12 months"
+    },
+    {
+        "id": "Q_COMP_13",
+        "category": "Compliance",
+        "question": "According to OISD-197, how often must fire extinguishers be inspected?",
+        "ground_truth": "every 13 months"
+    },
+    {
+        "id": "Q_COMP_14",
+        "category": "Compliance",
+        "question": "According to OISD-147, how often must fire extinguishers be inspected?",
+        "ground_truth": "every 14 months"
+    },
+    {
+        "id": "Q_COMP_15",
+        "category": "Compliance",
+        "question": "According to OISD-110, how often must fire extinguishers be inspected?",
+        "ground_truth": "every 15 months"
+    },
+    {
+        "id": "Q_IN_1",
+        "category": "Safety",
+        "question": "Who was the operator involved in incident IN-1 for GEN-2?",
+        "ground_truth": "John Doe"
+    },
+    {
+        "id": "Q_IN_2",
+        "category": "Safety",
+        "question": "Who was the operator involved in incident IN-2 for GEN-2?",
+        "ground_truth": "John Doe"
+    },
+    {
+        "id": "Q_IN_3",
+        "category": "Safety",
+        "question": "Who was the operator involved in incident IN-3 for P-101B?",
+        "ground_truth": "John Doe"
+    },
+    {
+        "id": "Q_IN_4",
+        "category": "Safety",
+        "question": "Who was the operator involved in incident IN-4 for C-400?",
+        "ground_truth": "John Doe"
+    },
+    {
+        "id": "Q_IN_5",
+        "category": "Safety",
+        "question": "Who was the operator involved in incident IN-5 for F-600?",
+        "ground_truth": "John Doe"
+    },
+    {
+        "id": "Q_IN_6",
+        "category": "Safety",
+        "question": "Who was the operator involved in incident IN-6 for GEN-2?",
+        "ground_truth": "John Doe"
+    },
+    {
+        "id": "Q_IN_7",
+        "category": "Safety",
+        "question": "Who was the operator involved in incident IN-7 for TK-50?",
+        "ground_truth": "John Doe"
+    },
+    {
+        "id": "Q_IN_8",
+        "category": "Safety",
+        "question": "Who was the operator involved in incident IN-8 for GEN-2?",
+        "ground_truth": "John Doe"
+    },
+    {
+        "id": "Q_IN_9",
+        "category": "Safety",
+        "question": "Who was the operator involved in incident IN-9 for P-101B?",
+        "ground_truth": "John Doe"
+    },
+    {
+        "id": "Q_IN_10",
+        "category": "Safety",
+        "question": "Who was the operator involved in incident IN-10 for C-400?",
+        "ground_truth": "John Doe"
+    },
+    {
+        "id": "Q_IN_11",
+        "category": "Safety",
+        "question": "Who was the operator involved in incident IN-11 for GEN-2?",
+        "ground_truth": "John Doe"
+    },
+    {
+        "id": "Q_IN_12",
+        "category": "Safety",
+        "question": "Who was the operator involved in incident IN-12 for HX-301?",
+        "ground_truth": "John Doe"
+    },
+    {
+        "id": "Q_IN_13",
+        "category": "Safety",
+        "question": "Who was the operator involved in incident IN-13 for COMP-1?",
+        "ground_truth": "John Doe"
+    },
+    {
+        "id": "Q_IN_14",
+        "category": "Safety",
+        "question": "Who was the operator involved in incident IN-14 for V-200?",
+        "ground_truth": "John Doe"
+    },
+    {
+        "id": "Q_IN_15",
+        "category": "Safety",
+        "question": "Who was the operator involved in incident IN-15 for C-400?",
+        "ground_truth": "John Doe"
+    }
+]

@@ -1,0 +1,88 @@
+# Git
+.git/
+.gitignore
+.gitattributes
+
+# Documentation
+*.md
+docs/
+LICENSE
+README.md
+
+# Test data (should be in external storage)
+real_test_data/
+data/train_FD001.txt
+data/evaluation_results.json
+
+# Node artifacts (build separately)
+mobile/node_modules/
+mobile/dist/
+dashboard/node_modules/
+dashboard/dist/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.Python
+*.so
+
+# Logs & reports
+*.log
+app.log
+logs/
+*_report.json
+batch_pipeline_report.json
+pipeline_test_report.json
+
+# Development tools
+.vscode/
+.idea/
+.cursor/
+.kiro/
+.zcode/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment files (use build args instead)
+.env
+.env.local
+.env.*
+
+# Database volumes
+neo4j_data/
+qdrant_data/
+postgres_data/
+volumes/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Models (mount as volume if needed)
+models/
+*.pkl
+*.joblib
+
+# Rust build artifacts
+target/
+**/*.rs.bk
+
+# Scripts (not needed in container)
+scripts/batch_test_pdfs.py
+scripts/download_and_test_real_pdfs.py
+scripts/download_real_test_data.py
+scripts/generate_sample_pdf.py
+scripts/test_production_pipeline.py
+download_pdfs.sh
+
+# Test files
+tests/manual_cors_auth_test.py
+tests/test_cors_and_auth.py

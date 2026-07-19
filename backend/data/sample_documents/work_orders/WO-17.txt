@@ -1,0 +1,1 @@
+Work Order WO-17: Equipment P-101B reported failure on 2024-01-17. Maintenance found worn seals. Replaced seals and tested at 273 PSI. System returned to normal.

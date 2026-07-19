@@ -1,0 +1,1 @@
+Work Order WO-28: Equipment P-101A reported failure on 2024-01-28. Maintenance found worn seals. Replaced seals and tested at 206 PSI. System returned to normal.

@@ -1,0 +1,1 @@
+Work Order WO-24: Equipment B-500 reported failure on 2024-01-24. Maintenance found worn seals. Replaced seals and tested at 333 PSI. System returned to normal.

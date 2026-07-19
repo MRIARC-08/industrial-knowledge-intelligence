@@ -1,0 +1,1 @@
+P-101A is a centrifugal pump. The normal operating pressure is 120 PSI. If pressure drops below 100 PSI, check for seal leaks.

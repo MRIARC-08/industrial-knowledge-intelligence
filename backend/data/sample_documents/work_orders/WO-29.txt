@@ -1,0 +1,1 @@
+Work Order WO-29: Equipment COMP-1 reported failure on 2024-01-29. Maintenance found worn seals. Replaced seals and tested at 178 PSI. System returned to normal.

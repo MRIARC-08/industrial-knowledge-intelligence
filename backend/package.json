@@ -1,0 +1,10 @@
+{
+  "name": "industrial-knowledge-intelligence",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "packages/*",
+    "admin",
+    "mobile"
+  ]
+}

@@ -1,0 +1,1 @@
+Work Order WO-5: Equipment HX-301 reported failure on 2024-01-05. Maintenance found worn seals. Replaced seals and tested at 369 PSI. System returned to normal.

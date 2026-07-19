@@ -1,0 +1,302 @@
+[
+    {
+        "id": "Q_1",
+        "category": "Retrieval (RAG)",
+        "question": "What is the maximum operating parameter for V-200?",
+        "ground_truth": "The maximum parameter is 300 GPM."
+    },
+    {
+        "id": "Q_2",
+        "category": "Retrieval (RAG)",
+        "question": "What is the maximum operating parameter for C-400?",
+        "ground_truth": "The maximum parameter is 85 \u00b0C."
+    },
+    {
+        "id": "Q_3",
+        "category": "Retrieval (RAG)",
+        "question": "What is the maximum operating parameter for TK-50?",
+        "ground_truth": "The maximum parameter is 120 PSI."
+    },
+    {
+        "id": "Q_4",
+        "category": "Retrieval (RAG)",
+        "question": "What is the maximum operating parameter for TK-50?",
+        "ground_truth": "The maximum parameter is 120 PSI."
+    },
+    {
+        "id": "Q_5",
+        "category": "Retrieval (RAG)",
+        "question": "What is the maximum operating parameter for P-101B?",
+        "ground_truth": "The maximum parameter is 300 GPM."
+    },
+    {
+        "id": "Q_6",
+        "category": "Retrieval (RAG)",
+        "question": "What is the maximum operating parameter for TK-50?",
+        "ground_truth": "The maximum parameter is 120 PSI."
+    },
+    {
+        "id": "Q_7",
+        "category": "Retrieval (RAG)",
+        "question": "What is the maximum operating parameter for C-400?",
+        "ground_truth": "The maximum parameter is 45 PSI."
+    },
+    {
+        "id": "Q_8",
+        "category": "Retrieval (RAG)",
+        "question": "What is the maximum operating parameter for C-400?",
+        "ground_truth": "The maximum parameter is 120 PSI."
+    },
+    {
+        "id": "Q_9",
+        "category": "Retrieval (RAG)",
+        "question": "What is the maximum operating parameter for TK-50?",
+        "ground_truth": "The maximum parameter is 120 PSI."
+    },
+    {
+        "id": "Q_10",
+        "category": "Retrieval (RAG)",
+        "question": "What is the maximum operating parameter for C-400?",
+        "ground_truth": "The maximum parameter is 300 GPM."
+    },
+    {
+        "id": "Q_11",
+        "category": "Retrieval (RAG)",
+        "question": "What is the maximum operating parameter for TK-50?",
+        "ground_truth": "The maximum parameter is 120 PSI."
+    },
+    {
+        "id": "Q_12",
+        "category": "Retrieval (RAG)",
+        "question": "What is the maximum operating parameter for V-200?",
+        "ground_truth": "The maximum parameter is 90 \u00b0C."
+    },
+    {
+        "id": "Q_13",
+        "category": "Retrieval (RAG)",
+        "question": "What is the maximum operating parameter for V-200?",
+        "ground_truth": "The maximum parameter is 85 \u00b0C."
+    },
+    {
+        "id": "Q_14",
+        "category": "Retrieval (RAG)",
+        "question": "What is the maximum operating parameter for P-101A?",
+        "ground_truth": "The maximum parameter is 90 \u00b0C."
+    },
+    {
+        "id": "Q_15",
+        "category": "Retrieval (RAG)",
+        "question": "What is the maximum operating parameter for P-101B?",
+        "ground_truth": "The maximum parameter is 90 \u00b0C."
+    },
+    {
+        "id": "Q_16",
+        "category": "Knowledge Graph (RCA)",
+        "question": "How many times did P-101A fail last year due to seal leaks?",
+        "ground_truth": "It failed 2 times."
+    },
+    {
+        "id": "Q_17",
+        "category": "Knowledge Graph (RCA)",
+        "question": "How many times did HX-301 fail last year due to seal leaks?",
+        "ground_truth": "It failed 2 times."
+    },
+    {
+        "id": "Q_18",
+        "category": "Knowledge Graph (RCA)",
+        "question": "How many times did HX-301 fail last year due to seal leaks?",
+        "ground_truth": "It failed 2 times."
+    },
+    {
+        "id": "Q_19",
+        "category": "Knowledge Graph (RCA)",
+        "question": "How many times did TK-50 fail last year due to seal leaks?",
+        "ground_truth": "It failed 2 times."
+    },
+    {
+        "id": "Q_20",
+        "category": "Knowledge Graph (RCA)",
+        "question": "How many times did V-200 fail last year due to seal leaks?",
+        "ground_truth": "It failed 2 times."
+    },
+    {
+        "id": "Q_21",
+        "category": "Knowledge Graph (RCA)",
+        "question": "How many times did P-101B fail last year due to seal leaks?",
+        "ground_truth": "It failed 4 times."
+    },
+    {
+        "id": "Q_22",
+        "category": "Knowledge Graph (RCA)",
+        "question": "How many times did V-200 fail last year due to seal leaks?",
+        "ground_truth": "It failed 4 times."
+    },
+    {
+        "id": "Q_23",
+        "category": "Knowledge Graph (RCA)",
+        "question": "How many times did V-200 fail last year due to seal leaks?",
+        "ground_truth": "It failed 2 times."
+    },
+    {
+        "id": "Q_24",
+        "category": "Knowledge Graph (RCA)",
+        "question": "How many times did V-200 fail last year due to seal leaks?",
+        "ground_truth": "It failed 2 times."
+    },
+    {
+        "id": "Q_25",
+        "category": "Knowledge Graph (RCA)",
+        "question": "How many times did P-101B fail last year due to seal leaks?",
+        "ground_truth": "It failed 4 times."
+    },
+    {
+        "id": "Q_26",
+        "category": "Knowledge Graph (RCA)",
+        "question": "How many times did TK-50 fail last year due to seal leaks?",
+        "ground_truth": "It failed 2 times."
+    },
+    {
+        "id": "Q_27",
+        "category": "Knowledge Graph (RCA)",
+        "question": "How many times did V-200 fail last year due to seal leaks?",
+        "ground_truth": "It failed 2 times."
+    },
+    {
+        "id": "Q_28",
+        "category": "Knowledge Graph (RCA)",
+        "question": "How many times did P-101B fail last year due to seal leaks?",
+        "ground_truth": "It failed 2 times."
+    },
+    {
+        "id": "Q_29",
+        "category": "Knowledge Graph (RCA)",
+        "question": "How many times did C-400 fail last year due to seal leaks?",
+        "ground_truth": "It failed 2 times."
+    },
+    {
+        "id": "Q_30",
+        "category": "Knowledge Graph (RCA)",
+        "question": "How many times did C-400 fail last year due to seal leaks?",
+        "ground_truth": "It failed 2 times."
+    },
+    {
+        "id": "Q_31",
+        "category": "Compliance",
+        "question": "According to OISD-116, what is the clearance required?",
+        "ground_truth": "A minimum clearance of 3 meters is required."
+    },
+    {
+        "id": "Q_32",
+        "category": "Compliance",
+        "question": "According to OISD-116, what is the clearance required?",
+        "ground_truth": "A minimum clearance of 3 meters is required."
+    },
+    {
+        "id": "Q_33",
+        "category": "Compliance",
+        "question": "According to BIS-144, what is the clearance required?",
+        "ground_truth": "A minimum clearance of 3 meters is required."
+    },
+    {
+        "id": "Q_34",
+        "category": "Compliance",
+        "question": "According to OISD-116, what is the clearance required?",
+        "ground_truth": "A minimum clearance of 3 meters is required."
+    },
+    {
+        "id": "Q_35",
+        "category": "Compliance",
+        "question": "According to BIS-144, what is the clearance required?",
+        "ground_truth": "A minimum clearance of 3 meters is required."
+    },
+    {
+        "id": "Q_36",
+        "category": "Compliance",
+        "question": "According to BIS-144, what is the clearance required?",
+        "ground_truth": "A minimum clearance of 3 meters is required."
+    },
+    {
+        "id": "Q_37",
+        "category": "Compliance",
+        "question": "According to PESO-2023, what is the clearance required?",
+        "ground_truth": "A minimum clearance of 3 meters is required."
+    },
+    {
+        "id": "Q_38",
+        "category": "Compliance",
+        "question": "According to BIS-144, what is the clearance required?",
+        "ground_truth": "A minimum clearance of 3 meters is required."
+    },
+    {
+        "id": "Q_39",
+        "category": "Compliance",
+        "question": "According to PESO-2023, what is the clearance required?",
+        "ground_truth": "A minimum clearance of 3 meters is required."
+    },
+    {
+        "id": "Q_40",
+        "category": "Compliance",
+        "question": "According to OISD-116, what is the clearance required?",
+        "ground_truth": "A minimum clearance of 3 meters is required."
+    },
+    {
+        "id": "Q_41",
+        "category": "Troubleshooting",
+        "question": "If vibration is high on C-400, what are the first checks?",
+        "ground_truth": "Check alignment, inspect bearings, and verify flow rates."
+    },
+    {
+        "id": "Q_42",
+        "category": "Troubleshooting",
+        "question": "If vibration is high on C-400, what are the first checks?",
+        "ground_truth": "Check alignment, inspect bearings, and verify flow rates."
+    },
+    {
+        "id": "Q_43",
+        "category": "Troubleshooting",
+        "question": "If vibration is high on P-101B, what are the first checks?",
+        "ground_truth": "Check alignment, inspect bearings, and verify flow rates."
+    },
+    {
+        "id": "Q_44",
+        "category": "Troubleshooting",
+        "question": "If vibration is high on V-200, what are the first checks?",
+        "ground_truth": "Check alignment, inspect bearings, and verify flow rates."
+    },
+    {
+        "id": "Q_45",
+        "category": "Troubleshooting",
+        "question": "If vibration is high on P-101A, what are the first checks?",
+        "ground_truth": "Check alignment, inspect bearings, and verify flow rates."
+    },
+    {
+        "id": "Q_46",
+        "category": "Troubleshooting",
+        "question": "If vibration is high on TK-50, what are the first checks?",
+        "ground_truth": "Check alignment, inspect bearings, and verify flow rates."
+    },
+    {
+        "id": "Q_47",
+        "category": "Troubleshooting",
+        "question": "If vibration is high on TK-50, what are the first checks?",
+        "ground_truth": "Check alignment, inspect bearings, and verify flow rates."
+    },
+    {
+        "id": "Q_48",
+        "category": "Troubleshooting",
+        "question": "If vibration is high on C-400, what are the first checks?",
+        "ground_truth": "Check alignment, inspect bearings, and verify flow rates."
+    },
+    {
+        "id": "Q_49",
+        "category": "Troubleshooting",
+        "question": "If vibration is high on TK-50, what are the first checks?",
+        "ground_truth": "Check alignment, inspect bearings, and verify flow rates."
+    },
+    {
+        "id": "Q_50",
+        "category": "Troubleshooting",
+        "question": "If vibration is high on P-101A, what are the first checks?",
+        "ground_truth": "Check alignment, inspect bearings, and verify flow rates."
+    }
+]

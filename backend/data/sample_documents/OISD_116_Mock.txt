@@ -1,0 +1,1 @@
+OISD-116 standard specifies that storage tanks like TK-50 must have a minimum clearance of 3 meters from adjacent equipment. Operating temperature should not exceed 85 °C.

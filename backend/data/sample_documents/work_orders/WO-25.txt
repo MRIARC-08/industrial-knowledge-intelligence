@@ -1,0 +1,1 @@
+Work Order WO-25: Equipment TK-50 reported failure on 2024-01-25. Maintenance found worn seals. Replaced seals and tested at 387 PSI. System returned to normal.

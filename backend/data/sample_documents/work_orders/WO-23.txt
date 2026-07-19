@@ -1,0 +1,1 @@
+Work Order WO-23: Equipment C-400 reported failure on 2024-01-23. Maintenance found worn seals. Replaced seals and tested at 414 PSI. System returned to normal.

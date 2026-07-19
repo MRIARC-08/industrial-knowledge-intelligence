@@ -1,0 +1,1 @@
+Work Order WO-2: Equipment P-101B reported failure on 2024-01-02. Maintenance found worn seals. Replaced seals and tested at 381 PSI. System returned to normal.

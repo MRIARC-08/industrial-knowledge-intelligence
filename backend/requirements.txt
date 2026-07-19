@@ -1,0 +1,45 @@
+fastapi>=0.109.0
+uvicorn>=0.27.0
+pydantic>=2.5.0
+pydantic-settings>=2.1.0
+
+# LLM & Agents
+langchain>=0.1.0
+langchain-openai>=0.0.2
+langgraph>=0.0.20
+openai>=1.10.0
+
+# Databases
+neo4j>=5.14.0
+qdrant-client>=1.7.0
+fastembed>=0.2.0  # For vector embeddings
+psycopg2-binary>=2.9.9
+redis>=5.0.1
+
+# Document Processing
+PyPDF2>=3.0.1
+pdfplumber>=0.10.3
+# spacy>=3.7.2  # REMOVED: Will use Rust regex-based NER
+# reportlab>=4.0.0  # REMOVED: Test fixtures only, not needed in production
+
+# Auth
+pyjwt>=2.8.0
+passlib[bcrypt]>=1.7.4
+
+# Other
+python-dotenv>=1.0.0
+pytest>=8.0.0
+langchain-text-splitters>=0.0.1
+python-multipart
+tenacity>=8.2.0
+httpx>=0.25.0  # For calling Rust microservices
+
+# streamlit>=1.31.0  # REMOVED: Duplicate dashboard (have React dashboard)
+# plotly>=5.18.0  # REMOVED: Not used server-side
+pandas>=2.1.0
+rank-bm25>=0.2.2
+# locust>=2.20.0  # REMOVED: Dev/test only, not for production
+
+slowapi>=0.1.9
+PyMuPDF==1.23.21
+openai==1.14.2

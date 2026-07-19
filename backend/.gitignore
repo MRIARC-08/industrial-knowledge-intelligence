@@ -1,0 +1,82 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv
+.pytest_cache/
+
+# Environment variables
+.env
+.env.local
+
+# IDEs
+.vscode/
+.idea/
+.cursor/
+.kiro/
+.zcode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data
+data/raw/
+data/train_FD001.txt
+data/evaluation_results.json
+real_test_data/
+*.csv
+*.xlsx
+
+# Models & Cache
+.cache/
+models/
+*.pkl
+*.joblib
+
+# Logs
+logs/
+*.log
+app.log
+
+# Test Reports
+*_report.json
+batch_pipeline_report.json
+pipeline_test_report.json
+
+# Databases
+*.db
+*.sqlite
+neo4j_data/
+qdrant_data/
+postgres_data/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Docker volumes
+volumes/
+
+# Node modules (should NEVER be committed)
+node_modules/
+mobile/node_modules/
+dashboard/node_modules/
+
+# Build artifacts
+mobile/dist/
+dashboard/dist/
+*.apk
+*.ipa
+
+# Rust
+target/
+Cargo.lock
+**/*.rs.bk
